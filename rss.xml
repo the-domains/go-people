@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Go People]]></title>
         <description><![CDATA[Go People]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/go-people/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 16:38:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 27 May 2016 16:38:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/go-people/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Invisible Skills Gap - One in Three Britons Don't Know Any of the Occupations we Need - Recruitment Buzz]]></title>
+            <description><![CDATA[<article><h1>Invisible Skills Gap - One in Three Britons Don't Know Any of the Occupations we Need - Recruitment Buzz</h1><p>When presented with a list of occupational skills, 32% of Britons failed to identify a single occupation currently considered in-demand by the Government. According to the study, conducted by Stormline, who supply wet weather gear to professionals in the engineering and science sectors, one in 10 people inccorectly believe we need more police officers, government officials or legal professionals.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e37d74695aeb825b5440fa2719a5f96870820c8b.png"></article>]]></description>
+            <link>http://recruitmentbuzz.co.uk/invisible-skills-gap-one-in-three-britons-dont-know-any-of-the-occupations-we-need/</link>
+            <guid isPermaLink="false">2acd31b9-b1ef-428e-bd10-96e5af89458d</guid>
+            <pubDate>Fri, 27 May 2016 16:38:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Missing out on candidates? Here's how to speed up the recruitment process.]]></title>
             <description><![CDATA[<article><h1>Missing out on candidates? Here's how to speed up the recruitment process.</h1><p>In today's vibrant job market, the risks of losing out on a top candidate are all too real. Moving people through the interview process quickly therefore should be the focus of recruiters. Why does it take so long to hire people?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8335e6382927723915ad64b129258f746065a415.jpg"></article>]]></description>
