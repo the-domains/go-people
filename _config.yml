@@ -1,0 +1,14 @@
+layout_spectrum: 0.48623218503780663
+typography_spectrum: 0.7032471708953381
+color:
+  brandStrength: 0.6784377144649625
+  lightness: 0.39958388544619083
+  saturation: 0.6484703414607793
+  rhythmicContrast: 0.9882870002184063
+  brandColors:
+    - '#6B0C22'
+    - '#D9042B'
+    - '#F4CB89'
+    - '#588C8C'
+    - '#011C26'
+name: Go People
